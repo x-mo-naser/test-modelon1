@@ -1,0 +1,24 @@
+{
+    "impact_workspace": {
+        "format": 1.0,
+        "version": "1.2_build_2",
+        "name": "motest1",
+        "description": ""
+    },
+    "modelica-path": [
+        {
+            "library": "Modelon",
+            "platform": true,
+            "editable": false,
+            "version": "3.7",
+            "link_name": "Modelon 3.7"
+        },
+        {
+            "library": "VehicleDynamics",
+            "platform": true,
+            "editable": false,
+            "version": "3.7",
+            "link_name": "VehicleDynamics 3.7"
+        }
+    ]
+}

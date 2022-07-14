@@ -1,0 +1,9 @@
+{
+  "libraries" : {
+    "Modelica" : {
+      "disabled" : false,
+      "preferredVersion" : "3.2.3"
+    }
+  },
+  "disabledLibraries" : [ ]
+}
